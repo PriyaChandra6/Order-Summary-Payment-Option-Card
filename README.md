@@ -1,7 +1,7 @@
-*Repository Title:* Order Summary & Payment Options Website
+*Repository Title:* Order Summary & Payment Options Card
 <br>
 *Description:*
-Welcome to the "Order Summary & Payment Options Website" repository! This project showcases a responsive web interface that allows users to review their order details and choose a payment method. It's perfect for e-commerce or checkout page implementations. 
+Welcome to the "Order Summary & Payment Options Card" repository! This project showcases a responsive web interface that allows users to review their order details and choose a payment method. It's perfect for e-commerce or checkout page implementations. 
 <br>
 *Key Features:*
 - Display order items & prices.
